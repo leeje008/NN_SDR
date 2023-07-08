@@ -1,1 +1,1 @@
-# NN_SDR
+# Sufficient Dimension Reduction via Penalized Neural Network
