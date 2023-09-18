@@ -1,0 +1,32 @@
+model1
+
+{'h_dim1': 1, 'h_dim2': 20, 'sample_size': 500, 'num_features': 20, 'lambda_0': 0.005, 'lr': 0.0075, 'epoch': 5000, 'seed': -1, 'model_num': 'model1', 'num_cv': 5, 'or_pen': 'orthogonal', 'dim': 'known'}
+
+model2
+
+{'h_dim1': 1, 'h_dim2': 20, 'sample_size': 500, 'num_features': 20, 'lambda_0': 0.005, 'lr': 0.001, 'epoch': 5000, 'seed': -1, 'model_num': 'model2', 'num_cv': 5, 'or_pen': 'orthogonal', 'dim': 'known'}
+
+model3
+
+ {'h_dim1': 1, 'h_dim2': 20, 'sample_size': 500, 'num_features': 20, 'lambda_0': 0.05, 'lr': 0.0005, 'epoch': 5000, 'seed': -1, 'model_num': 'model3', 'num_cv': 5, 'or_pen': 'orthogonal', 'dim': 'known'}
+
+model4
+{'h_dim1': 1, 'h_dim2': 20, 'sample_size': 500, 'num_features': 20, 'lambda_0': 0.001, 'lr': 0.0001, 'epoch': 5000, 'seed': -1, 'model_num': 'model4', 'num_cv': 5, 'or_pen': 'orthogonal', 'dim': 'known'}
+
+
+model5
+
+{'h_dim1': 2, 'h_dim2': 20, 'sample_size': 500, 'num_features': 20, 'lambda_0': 0.001, 'lr': 0.00025, 'epoch': 5000, 'seed': -1, 'model_num': 'model5', 'num_cv': 5, 'or_pen': 'orthogonal', 'dim': 'known'}
+
+model6
+
+{'h_dim1': 2, 'h_dim2': 20, 'sample_size': 500, 'num_features': 20, 'lambda_0': 0.001, 'lr': 0.0005, 'epoch': 5000, 'seed': -1, 'model_num': 'model6', 'num_cv': 5, 'or_pen': 'orthogonal', 'dim': 'known'}
+
+
+model7
+
+{'h_dim1': 2, 'h_dim2': 20, 'sample_size': 500, 'num_features': 20, 'lambda_0': 0.01, 'lr': 0.00075, 'epoch': 5000, 'seed': -1, 'model_num': 'model7', 'num_cv': 5, 'or_pen': 'orthogonal', 'dim': 'known'}
+
+model8
+
+{'h_dim1': 2, 'h_dim2': 20, 'sample_size': 500, 'num_features': 20, 'lambda_0': 0.001, 'lr': 0.0025, 'epoch': 5000, 'seed': -1, 'model_num': 'model8', 'num_cv': 5, 'or_pen': 'orthogonal', 'dim': 'known'}
